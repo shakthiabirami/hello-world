@@ -11,3 +11,6 @@ Hi! Hello!! Everybody,
 5. Make Changes.
 6. Commit changes to the newly created branch.
 7. Create "New Pull Request" 
+8. Compare the Changes made in the bew branch with the master/base branch.
+9. Colloborate with people invovled to check the changes in the branch. 
+10. If there are no issues or conflicts, merge it to the base branch. 
