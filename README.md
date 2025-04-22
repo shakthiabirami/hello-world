@@ -13,4 +13,5 @@ Hi! Hello!! Everybody,
 7. Create "New Pull Request" 
 8. Compare the Changes made in the bew branch with the master/base branch.
 9. Colloborate with people invovled to check the changes in the branch. 
-10. If there are no issues or conflicts, merge it to the base branch. 
+10. If there are no issues or conflicts, merge it to the base branch.
+11. ![Alt text](images/my-image.jpg)
